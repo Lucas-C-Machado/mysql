@@ -531,6 +531,31 @@ Por isso este material foi criado: para transformar conceitos que muitas vezes p
 
 ---
 
+# 📄 Licença
+
+Copyright © 2026 Lucas Camponogara Machado.
+
+Este projeto está licenciado sob a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+Você pode:
+
+- 📚 Estudar;
+- 📖 Compartilhar;
+- 🎓 Utilizar em atividades educacionais;
+- 🛠️ Adaptar e expandir o conteúdo.
+
+Desde que:
+
+- 👨‍💻 Mantenha os créditos ao autor;
+- 🚫 Não utilize o material para fins comerciais;
+- 🔄 Distribua versões derivadas sob a mesma licença.
+
+Consulte o arquivo `LICENSE` para mais informações ou acesse:
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+---
+
 <div align="center">
 
 # 🚀 Bons estudos!
