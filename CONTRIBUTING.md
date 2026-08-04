@@ -313,6 +313,12 @@ Obrigado por dedicar seu tempo para melhorar este livro digital.
 
 ---
 
+## 📚 Direitos sobre as contribuições
+
+Ao enviar contribuições para este projeto (como correções, exemplos, exercícios, diagramas ou melhorias na documentação), você concorda que elas poderão ser incorporadas ao material e distribuídas sob a mesma licença **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+---
+
 <div align="center">
 
 ## ❤️ Obrigado por contribuir!
